@@ -1,0 +1,345 @@
+1695011715343	geckodriver	INFO	Listening on 127.0.0.1:57107
+1695011718418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57108" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\paras\\AppData\\Local\\Temp\\rust_mozprofiledaZpOz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695011718654	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695011718739	Marionette	INFO	Listening on port 57119
+Read port: 57119
+WebDriver BiDi listening on ws://127.0.0.1:57108
+1695011718784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57108/devtools/browser/1bff2bd8-0e82-4438-9ac4-e32a9158ba19
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.99acres.com."
+JavaScript error: https://static.99acres.com/universalhp/js/commons~DefaultDHp~PersonalizedDHp~SellerDHp~homepage~493df0b3Bundle.f96d0ffbce5fd925b3a1.js, line 1: ReferenceError: finalObj is not defined
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695011733256	Marionette	INFO	Stopped listening on port 57119
+JavaScript warning: https://script.hotjar.com/modules.afe18b03a2724895a0ac.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.afe18b03a2724895a0ac.js:2:42002
+
+Dynamically enable window occlusion 1
+1695011750717	geckodriver	INFO	Listening on 127.0.0.1:57270
+1695011753788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\paras\\AppData\\Local\\Temp\\rust_mozprofileDVr8rE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695011754033	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695011754119	Marionette	INFO	Listening on port 57282
+WebDriver BiDi listening on ws://127.0.0.1:57271
+Read port: 57282
+1695011754295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57271/devtools/browser/fc77f340-887c-43bc-9030-7041d5dfd985
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.99acres.com."
+JavaScript error: https://static.99acres.com/universalhp/js/commons~DefaultDHp~PersonalizedDHp~SellerDHp~homepage~493df0b3Bundle.f96d0ffbce5fd925b3a1.js, line 1: ReferenceError: finalObj is not defined
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695011767465	Marionette	INFO	Stopped listening on port 57282
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: Script terminated by timeout at:
+RvV@https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B:1:136822
+x0/A0</<@https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B:1:148447
+
+Dynamically enable window occlusion 1
+1695011812679	geckodriver	INFO	Listening on 127.0.0.1:57472
+1695011815760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\paras\\AppData\\Local\\Temp\\rust_mozprofileiwpqDY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695011816004	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695011816097	Marionette	INFO	Listening on port 57484
+WebDriver BiDi listening on ws://127.0.0.1:57473
+Read port: 57484
+1695011816264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57473/devtools/browser/6386ee9c-ccb3-4fe9-b7ad-bfde4efc36fb
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.99acres.com."
+JavaScript error: https://static.99acres.com/universalhp/js/commons~DefaultDHp~PersonalizedDHp~SellerDHp~homepage~493df0b3Bundle.f96d0ffbce5fd925b3a1.js, line 1: ReferenceError: finalObj is not defined
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695011828695	Marionette	INFO	Stopped listening on port 57484
+JavaScript warning: https://script.hotjar.com/modules.afe18b03a2724895a0ac.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.afe18b03a2724895a0ac.js:2:42002
+
+Dynamically enable window occlusion 1
+1695011939072	geckodriver	INFO	Listening on 127.0.0.1:57758
+1695011942137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\paras\\AppData\\Local\\Temp\\rust_mozprofile2MyKHE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695011942378	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695011942466	Marionette	INFO	Listening on port 57770
+WebDriver BiDi listening on ws://127.0.0.1:57759
+Read port: 57770
+1695011942641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57759/devtools/browser/b6c8a5cc-fca3-48e0-aaf2-ca14ca6b84ba
+1695011945421	Marionette	INFO	Stopped listening on port 57770
+Dynamically enable window occlusion 1
+1695013042200	geckodriver	INFO	Listening on 127.0.0.1:59384
+1695013045278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\paras\\AppData\\Local\\Temp\\rust_mozprofile6XfMor"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695013045524	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695013045611	Marionette	INFO	Listening on port 59397
+WebDriver BiDi listening on ws://127.0.0.1:59385
+Read port: 59397
+1695013045774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59385/devtools/browser/0bd37651-b81c-461a-b801-a80b4ad6c260
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.99acres.com."
+JavaScript error: https://static.99acres.com/universalhp/js/commons~DefaultDHp~PersonalizedDHp~SellerDHp~homepage~493df0b3Bundle.f96d0ffbce5fd925b3a1.js, line 1: ReferenceError: finalObj is not defined
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695013056209	Marionette	INFO	Stopped listening on port 59397
+Dynamically enable window occlusion 1
+1695013057847	geckodriver	INFO	Listening on 127.0.0.1:59508
+1695013060924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59509" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\paras\\AppData\\Local\\Temp\\rust_mozprofile6I7HTy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695013061187	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695013061287	Marionette	INFO	Listening on port 59522
+WebDriver BiDi listening on ws://127.0.0.1:59509
+Read port: 59522
+1695013061464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59509/devtools/browser/aac87b71-00d6-4cc8-a7f7-7859cb613199
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.99acres.com."
+JavaScript error: https://static.99acres.com/universalhp/js/commons~DefaultDHp~PersonalizedDHp~SellerDHp~homepage~493df0b3Bundle.f96d0ffbce5fd925b3a1.js, line 1: ReferenceError: finalObj is not defined
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.99acres.com/universalsrp/js/srp-vendor-node_modules_universal-cookie_es6_index_js-node_modules_util_util_js-node_modules_-5950b0Bundle.f251788cc9956cb1991e.js, line 2: Script terminated by timeout at:
+U@https://static.99acres.com/universalsrp/js/srp-vendor-node_modules_universal-cookie_es6_index_js-node_modules_util_util_js-node_modules_-5950b0Bundle.f251788cc9956cb1991e.js:2:45477
+V@https://static.99acres.com/universalsrp/js/srp-vendor-node_modules_universal-cookie_es6_index_js-node_modules_util_util_js-node_modules_-5950b0Bundle.f251788cc9956cb1991e.js:2:45630
+i@https://static.99acres.com/universalsrp/js/srp-vendor-node_modules_universal-cookie_es6_index_js-node_modules_util_util_js-node_modules_-5950b0Bundle.f251788cc9956cb1991e.js:2:46314
+20964/G/</<@https://static.99acres.com/universalsrp/js/srp-vendor-node_modules_universal-cookie_es6_index_js-node_modules_util_util_js-node_modules_-5950b0Bundle.f251788cc9956cb1991e.js:2:46550
+t@https://static.99acres.com/universalsrp/js/srp-vendor-node_modules_universal-cookie_es6_index_js-node_modules_util_util_js-node_modules_-5950b0Bundle.f251788cc9956cb1991e.js:2:42321
+
+1695013071484	Marionette	INFO	Stopped listening on port 59522
+Dynamically enable window occlusion 1
+1695013125283	geckodriver	INFO	Listening on 127.0.0.1:59692
+1695013128346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\paras\\AppData\\Local\\Temp\\rust_mozprofilezmvh0a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695013128584	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695013128678	Marionette	INFO	Listening on port 59704
+WebDriver BiDi listening on ws://127.0.0.1:59693
+Read port: 59704
+1695013128840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59693/devtools/browser/787ae991-248c-4911-98a2-294e0adcc9c6
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.99acres.com."
+JavaScript error: https://static.99acres.com/universalhp/js/commons~DefaultDHp~PersonalizedDHp~SellerDHp~homepage~493df0b3Bundle.f96d0ffbce5fd925b3a1.js, line 1: ReferenceError: finalObj is not defined
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695013141204	Marionette	INFO	Stopped listening on port 59704
+JavaScript warning: https://script.hotjar.com/modules.afe18b03a2724895a0ac.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.afe18b03a2724895a0ac.js:2:42002
+
+Dynamically enable window occlusion 1
+1695015021330	geckodriver	INFO	Listening on 127.0.0.1:62308
+1695015024392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\paras\\AppData\\Local\\Temp\\rust_mozprofileEgmSgA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695015024656	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695015024761	Marionette	INFO	Listening on port 62326
+WebDriver BiDi listening on ws://127.0.0.1:62309
+Read port: 62326
+1695015025023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62309/devtools/browser/fd55e9ea-bdd7-42a3-b2d9-eedccb9e0bb6
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.99acres.com."
+JavaScript error: https://static.99acres.com/universalhp/js/commons~DefaultDHp~PersonalizedDHp~SellerDHp~homepage~493df0b3Bundle.f96d0ffbce5fd925b3a1.js, line 1: ReferenceError: finalObj is not defined
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695015036301	Marionette	INFO	Stopped listening on port 62326
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: Script terminated by timeout at:
+T0@https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B:1:23638
+
+Dynamically enable window occlusion 1
+1695017190041	geckodriver	INFO	Listening on 127.0.0.1:65216
+1695017193098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\paras\\AppData\\Local\\Temp\\rust_mozprofile7S0scZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695017193340	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695017193430	Marionette	INFO	Listening on port 65228
+WebDriver BiDi listening on ws://127.0.0.1:65217
+Read port: 65228
+1695017193606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65217/devtools/browser/5f3b8e70-66ab-471f-a513-4bab24784e34
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.99acres.com."
+JavaScript error: https://static.99acres.com/universalhp/js/commons~DefaultDHp~PersonalizedDHp~SellerDHp~homepage~493df0b3Bundle.f96d0ffbce5fd925b3a1.js, line 1: ReferenceError: finalObj is not defined
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695017276279	geckodriver	INFO	Listening on 127.0.0.1:65459
+1695017279314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65460" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\paras\\AppData\\Local\\Temp\\rust_mozprofilecGKFD0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695017279561	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695017279647	Marionette	INFO	Listening on port 65471
+WebDriver BiDi listening on ws://127.0.0.1:65460
+Read port: 65471
+1695017279820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65460/devtools/browser/2b4cb0d6-dbe2-448e-8bcc-47641a4683b1
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.99acres.com."
+JavaScript error: https://static.99acres.com/universalhp/js/commons~DefaultDHp~PersonalizedDHp~SellerDHp~homepage~493df0b3Bundle.f96d0ffbce5fd925b3a1.js, line 1: ReferenceError: finalObj is not defined
+JavaScript warning: https://static.99acres.com/universalhp/js/main~493df0b3Bundle.3d486c8824e776072908.js, line 1: Script terminated by timeout at:
+dm5v/P/<@https://static.99acres.com/universalhp/js/main~493df0b3Bundle.3d486c8824e776072908.js:1:40850
+t@https://static.99acres.com/universalhp/js/main~493df0b3Bundle.3d486c8824e776072908.js:1:40711
+
+1695017329564	Marionette	INFO	Stopped listening on port 65471
+Dynamically enable window occlusion 1
+1695017416452	geckodriver	INFO	Listening on 127.0.0.1:49364
+1695017419515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\paras\\AppData\\Local\\Temp\\rust_mozprofile25CaDo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695017419758	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695017419848	Marionette	INFO	Listening on port 49376
+Read port: 49376
+WebDriver BiDi listening on ws://127.0.0.1:49365
+1695017419895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49365/devtools/browser/50a8b773-9b82-41a9-aa54-f1020fafaa7b
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.99acres.com."
+JavaScript error: https://static.99acres.com/universalhp/js/commons~DefaultDHp~PersonalizedDHp~SellerDHp~homepage~493df0b3Bundle.f96d0ffbce5fd925b3a1.js, line 1: ReferenceError: finalObj is not defined
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695017433436	Marionette	INFO	Stopped listening on port 49376
+JavaScript warning: https://script.hotjar.com/modules.afe18b03a2724895a0ac.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.afe18b03a2724895a0ac.js:2:42002
+
+Dynamically enable window occlusion 1
+1695017471310	geckodriver	INFO	Listening on 127.0.0.1:49564
+1695017474380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\paras\\AppData\\Local\\Temp\\rust_mozprofilejxX6Bz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695017474621	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695017474712	Marionette	INFO	Listening on port 49576
+WebDriver BiDi listening on ws://127.0.0.1:49565
+Read port: 49576
+1695017474882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49565/devtools/browser/2a7ee03a-4838-435d-8dd0-20e0e4ff7f93
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.99acres.com."
+JavaScript error: https://static.99acres.com/universalhp/js/commons~DefaultDHp~PersonalizedDHp~SellerDHp~homepage~493df0b3Bundle.f96d0ffbce5fd925b3a1.js, line 1: ReferenceError: finalObj is not defined
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695017489331	Marionette	INFO	Stopped listening on port 49576
+JavaScript warning: https://static.99acres.com/universalsrp/js/srp-common-components_Search_revamp_SrpTuple_index_js-config_globalConstants_budgetClusterMap-790f2cBundle.c5de4fc6c5262674a319.js, line 1: Script terminated by timeout at:
+e@https://static.99acres.com/universalsrp/js/srp-common-components_Search_revamp_SrpTuple_index_js-config_globalConstants_budgetClusterMap-790f2cBundle.c5de4fc6c5262674a319.js:1:95386
+
+Dynamically enable window occlusion 1
+1695017865742	geckodriver	INFO	Listening on 127.0.0.1:50728
+1695017868811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50729" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\paras\\AppData\\Local\\Temp\\rust_mozprofile104DNn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695017869071	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695017869168	Marionette	INFO	Listening on port 50740
+WebDriver BiDi listening on ws://127.0.0.1:50729
+Read port: 50740
+1695017869379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50729/devtools/browser/464ef420-a882-4726-b6bd-c20599d808ab
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.99acres.com."
+JavaScript error: https://static.99acres.com/universalhp/js/commons~DefaultDHp~PersonalizedDHp~SellerDHp~homepage~493df0b3Bundle.f96d0ffbce5fd925b3a1.js, line 1: ReferenceError: finalObj is not defined
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695017884885	Marionette	INFO	Stopped listening on port 50740
+JavaScript warning: https://script.hotjar.com/modules.afe18b03a2724895a0ac.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.afe18b03a2724895a0ac.js:2:41999
+
+Dynamically enable window occlusion 1
+1695019784726	geckodriver	INFO	Listening on 127.0.0.1:53887
+1695019787784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53888" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\paras\\AppData\\Local\\Temp\\rust_mozprofileFRbOcN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695019788026	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695019788119	Marionette	INFO	Listening on port 53903
+WebDriver BiDi listening on ws://127.0.0.1:53888
+Read port: 53903
+1695019788311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53888/devtools/browser/88f55b56-e02f-4c25-83e0-95b90da5b720
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.99acres.com."
+JavaScript error: https://static.99acres.com/universalhp/js/commons~DefaultDHp~PersonalizedDHp~SellerDHp~homepage~493df0b3Bundle.f96d0ffbce5fd925b3a1.js, line 1: ReferenceError: finalObj is not defined
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: unreachable code after return statement
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.99acres.com/3rMX4/U/fK/pnT-/wArey5G2/9YYV4wmGpSm7fa/aS12AxAB/GT0UXQQi/Sw8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695019812268	Marionette	INFO	Stopped listening on port 53903
+JavaScript warning: https://script.hotjar.com/modules.afe18b03a2724895a0ac.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.afe18b03a2724895a0ac.js:2:42002
+
+Dynamically enable window occlusion 1
